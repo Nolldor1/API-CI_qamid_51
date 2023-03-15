@@ -28,7 +28,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "^((RUR){1})?((USD){1})?$"
+        "pattern": "^((RUB){1})?((USD){1})?$"
       }
     }
   }
